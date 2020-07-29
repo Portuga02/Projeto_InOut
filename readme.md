@@ -11,4 +11,4 @@ MVC
 PDO
 POO
 
-utilizando banco de dados mysql 
+utilizando banco de dados mysql com conexão pdo
