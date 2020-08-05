@@ -10,3 +10,5 @@ utilizando arquiteturas e conexões :
 MVC
 PDO
 POO
+
+utilizando banco de dados mysql 
